@@ -1,6 +1,6 @@
 # Stackline Assessment Challenge
 
-This is my submission for the Stackline Assessment Challenge for Fullstack Engineer. The project is deployed using Github Pages [here](https://saviodcosta.github.io/stackline/).
+This is my submission for the Stackline Assessment Challenge for Fullstack Engineer. The project is deployed using Github Pages. It is deployed on [saviodcosta.github.io/stackline/](https://saviodcosta.github.io/stackline/).
 
 ## Run Project
 1. Clone the repository to your local machine or via Github Codespaces.
