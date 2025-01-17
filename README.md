@@ -1,46 +1,27 @@
 # Stackline Assessment Challenge
 
-Thank you for taking our web developer assessment. To complete the
-assessment, you will take what is provided and create a simple product
-web page that uses React to produce the view and Redux to manage the
-state.  It should take approximately **2** hours to complete a typical
-solution, but you may take up to **24** hours.  **You may use any public
-npm packages.**
+This is my submission for the Stackline Assessment Challenge for Fullstack Engineer. The project is deployed using Github Pages [here](https://saviodcosta.github.io/stackline/).
 
-<u>Resources to get started (attached via email):</u>
+## Run Project
+1. Clone the repository to your local machine or via Github Codespaces.
+2. Install dependencies using:
+   `npm install`
 
-1.  A JSON file to be used as the data source to populate the web page
+3. Run project with:
+   `npm run start`
 
-2.  A wire mockup of what your final web page should look like. **You
-    only need to implement the page with the graph and/or table.**
+## Scripts
+- `npm run dev` - start dev server and open browser
+- `npm run build` - build for production
+- `npm preview` - locally preview production build
 
-3.  SVG of the Stackline logo
+## Technologies Used
+- React
+- Redux
+- TypeScript
+- HTML
+- CSS
+- [HighCharts](https://www.highcharts.com/)
+- [react-table](https://www.npmjs.com/package/react-table)
 
-<u>We are looking for:</u>
-
-1.  A solution that resembles the provided mockup closely and
-    implements **AT LEAST ONE **of either the **graph or table** as seen
-    in the mockup
-
-2.  A working solution that takes the provided JSON file as output from
-    a mock API call
-
-3.  A solution that implements React and Redux best practices and
-    patterns
-
-4.  Clean, easy to follow code
-
-<u>Nice to haves:</u>
-
-- Typescript
-
-- Functional components
-
-- Additional functionality in the graph or table, e.g. sorting, overlays
-
-<u>Assets to be returned via email within the provided time frame:</u>
-
-1.  A public git repository to view the final code
-
-2.  A public URL to view the web page --- can be hosted on GitHub Pages,
-    AWS, Vercel, etc.
+## Thank you
