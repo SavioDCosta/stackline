@@ -1,3 +1,5 @@
+# Stackline Assessment Challenge
+
 Thank you for taking our web developer assessment. To complete the
 assessment, you will take what is provided and create a simple product
 web page that uses React to produce the view and Redux to manage the

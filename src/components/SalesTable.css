@@ -1,0 +1,57 @@
+.table-container {
+  width: 100%;
+}
+
+.sales-table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: none;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.sales-table thead tr {
+  border: none;
+}
+
+.sales-table thead th {
+  text-align: left;
+  padding: 12px 8px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  user-select: none;
+}
+
+.sales-table tbody tr {
+  padding: 12px;
+  border: none;
+}
+
+.sales-table tbody td {
+  padding: 12px;
+  border: none;
+}
+
+.sales-table th,
+.sales-table td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sales-table tbody tr:hover {
+  background-color: #fafafa;
+}
+
+.sort-icon {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 6px;
+  font-size: 0.75rem;
+  color: #bbb;
+}
