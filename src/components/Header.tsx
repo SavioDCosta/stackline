@@ -1,15 +1,12 @@
 import React from "react";
+import logo from "../assets/stackline-logo.svg";
 import "./Header.css";
 
 const Header: React.FC = () => {
   return (
     <header className="header">
       <div className="header-content">
-        <img
-          src="/stackline-logo.svg"
-          alt="Stackline Logo"
-          className="header-logo"
-        />
+        <img src={logo} alt="Stackline Logo" className="header-logo" />
       </div>
     </header>
   );
