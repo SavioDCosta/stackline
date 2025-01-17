@@ -1,9 +1,9 @@
 import React from "react";
 import { useSelector } from "react-redux";
-import { RootState } from "../app/store";
-import ProductDetails from "../components/ProductDetails";
-import SalesChart from "../components/SalesChart";
-import SalesTable from "../components/SalesTable";
+import { RootState } from "../../app/store";
+import ProductDetails from "../../components/ProductDetails/ProductDetails";
+import SalesChart from "../../components/SalesChart/SalesChart";
+import SalesTable from "../../components/SalesTable/SalesTable";
 import "./ProductPage.css";
 
 const ProductPage: React.FC = () => {

@@ -5,8 +5,8 @@ import {
   getMonthlySales,
   getTrendOptions,
   setHighChartsOptions,
-} from "../utils/trend";
-import { Sale } from "../types";
+} from "../../utils/trend";
+import { Sale } from "../../types";
 
 interface SalesChartProps {
   salesData: Sale[];
