@@ -1,8 +1,9 @@
 # Stackline Assessment Challenge
 
-This is my submission for the Stackline Assessment Challenge for Fullstack Engineer. The project is deployed using Github Pages. It is deployed on [saviodcosta.github.io/stackline/](https://saviodcosta.github.io/stackline/).
+This is my submission for the Stackline Assessment Challenge for Fullstack Engineer. The project is deployed using Github Pages. It is deployed on [saviodcosta.github.io/stackline-assessment/](https://saviodcosta.github.io/stackline-assessment/).
 
 ## Run Project
+
 1. Clone the repository to your local machine or via Github Codespaces.
 2. Install dependencies using:
    `npm install`
@@ -11,11 +12,13 @@ This is my submission for the Stackline Assessment Challenge for Fullstack Engin
    `npm run start`
 
 ## Scripts
+
 - `npm run dev` - start dev server and open browser
 - `npm run build` - build for production
 - `npm preview` - locally preview production build
 
 ## Technologies Used
+
 - React
 - Redux
 - TypeScript

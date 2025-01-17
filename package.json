@@ -2,7 +2,7 @@
   "name": "stackline",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saviodcosta.github.io/stackline",
+  "homepage": "https://saviodcosta.github.io/stackline-assessment",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "@testing-library/jest-dom": "^5.14.1",
