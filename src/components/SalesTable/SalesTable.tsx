@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./SalesTable.css";
-import { Sale } from "../types";
+import { Sale } from "../../types";
 
 interface SalesTableProps {
   salesData: Sale[];

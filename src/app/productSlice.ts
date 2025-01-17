@@ -1,3 +1,4 @@
+// src/app/productSlice.ts
 import { createSlice } from "@reduxjs/toolkit";
 import { Product } from "../types";
 import data from "../data.json";
@@ -19,6 +20,8 @@ const productSlice = createSlice({
   initialState,
   reducers: {
     loadProductData: (state) => {
+      // For a real API call, you might fetch asynchronously in an extraReducer or thunk.
+      // Here, we just load from the local JSON:
       state.product = productFromJson;
       state.status = "success";
     },
