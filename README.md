@@ -1,6 +1,6 @@
 # Stackline Assessment Challenge
 
-This is my submission for the Stackline Assessment Challenge for Fullstack Engineer. The project is deployed using Github Pages. It is deployed on [saviodcosta.github.io/stackline-assessment/](https://saviodcosta.github.io/stackline-assessment/).
+This is my submission for the Stackline Assessment Challenge for Software Engineer (Frontend). The project is deployed on [name](link).
 
 ## Run Project
 
@@ -8,7 +8,7 @@ This is my submission for the Stackline Assessment Challenge for Fullstack Engin
 2. Install dependencies using:
    `npm install`
 
-3. Run project with:
+3. Run the project with:
    `npm run start`
 
 ## Scripts
@@ -20,11 +20,6 @@ This is my submission for the Stackline Assessment Challenge for Fullstack Engin
 ## Technologies Used
 
 - React
-- Redux
 - TypeScript
-- HTML
-- CSS
-- [HighCharts](https://www.highcharts.com/)
-- [react-table](https://www.npmjs.com/package/react-table)
 
 ## Thank you
