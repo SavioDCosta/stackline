@@ -1,4 +1,4 @@
-# Stackline Assessment Challenge
+# Ramp Frontend Challenge
 
 This is my submission for the Stackline Assessment Challenge for Software Engineer (Frontend). The project is deployed on [name](link).
 
